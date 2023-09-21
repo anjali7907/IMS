@@ -1,5 +1,5 @@
 .container{
-    background: url('../IMS/images/main.jpg');
+    background: url('/images/main.jpg');
     background-size: cover;
     font-family: ariel;
     
